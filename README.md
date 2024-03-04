@@ -1,4 +1,4 @@
-# README file for SafeDrive App
+# README file for SafeDrive App: Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
 
 The project is divided in 3 tasks: 
 
@@ -6,9 +6,9 @@ The project is divided in 3 tasks:
 2. Intoxication Calculation using CNN in Python
 3. Fuzzy analysis using matlab
 
-## Task 1
+# Task 1
 
-# Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
+## Android Development using Kotlin for Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
 
 This project includes addition of BMI analysis and sleep analysis, Video activity for Task 2 and creating real-time connection between android and matlab using Google Firebase with NoSQL database.
 
