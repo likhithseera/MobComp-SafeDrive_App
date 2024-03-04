@@ -1,6 +1,6 @@
-# README.md by GROUP 39 - Project 5
+# README file for SafeDrive App
 
-# The project is divided in 3 tasks - 1. Android 2. Intoxication Calculation with Python 3. Fuzzy analysis with matlab
+# The project is divided in 3 tasks - 1. Android Development using Kotlin 2. Intoxication Calculation using CNN in Python 3. Fuzzy analysis using matlab
 
 ## Task 1
 
