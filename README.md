@@ -8,16 +8,11 @@ The project is divided in 3 tasks:
 
 # Task 1
 
-## Android Development using Kotlin for Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
+## Android Development using Kotlin.
 
 This project includes addition of BMI analysis and sleep analysis, Video activity for Task 2 and creating real-time connection between android and matlab using Google Firebase with NoSQL database.
 
-## Introduction
-
-Instructions to run the work done by Shubham Indulkar & Deekshith Reddy Yeruva as part of Task 1.
-
 ## Prerequisites
-
 
 - Android Studio Emulator/ Android device
 - MATLAB
@@ -57,7 +52,7 @@ Please refer at the resource json to see the switch output on firebase.
 ![Toast message back to android app from matlab](images/OUTback.png)
 
 
-## Task 2
+# Task 2
 
 # Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
 
