@@ -1,4 +1,4 @@
-# README file for SafeDrive App: Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
+# A guide for SafeDrive App: Enhancing Autonomous Vehicle Safety through Real-time User Health Monitoring and Various factors integration.
 
 The project is divided in 3 tasks: 
 
